@@ -1,0 +1,9 @@
+/** @format */
+
+main > .container {
+  padding: 30px 0;
+}
+
+.form-login {
+  max-width: 350px;
+}
